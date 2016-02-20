@@ -4,6 +4,7 @@ A collection of hyperlinks pointing to tutorials / articles and other BBB-relate
     - [Reference & manuals] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/REFERENCE-MANUALS.md)
     - [Books] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/BOOKS.md)
     - [UART] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/UART.md)
+    - [Bluetooth] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/BLUETOOTH.md)
     
 - [Contributing](#contributing)
 
