@@ -1,9 +1,9 @@
 # Beaglebone-Black Pwm - Servo
 
 ## Notes :
-BeagleBone Black hardware has 8 PWM outputs mapped to 14 pins on the P8 and P9 headers, some of these PWM outputs can be muxed to one of two alternate pins. For example, EHRPWM0B, can be muxed to either P9_21 or P9_29 but not to both pins at the same time 
-Books : 
-“Getting started with Beaglebone” Ch5 → Analog output PWM   
+BeagleBone Black hardware has 8 PWM outputs mapped to 14 pins on the P8 and P9 headers, some of these PWM outputs can be muxed to one of two alternate pins. For example, EHRPWM0B, can be muxed to either P9_21 or P9_29 but not to both pins at the same time.
+Books :
+“Getting started with Beaglebone” Ch5 → Analog output PWM
 “Beaglebone for dummies” Ch6 →  how to enable and control of the GPIO-pwm pins. 
 “Beaglebone home automation” Ch2 → pwm example , dimming a led with Adafruit’s BBB_IO library 
 “Getting started with Beaglebone Linux powered electronic projects with Python and Javascript” Ch5 →  Pwm with Adafruit_BBBIO library 
