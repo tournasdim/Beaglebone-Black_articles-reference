@@ -28,6 +28,8 @@ Title and publication date
 * Building a Beaglebone Black cluster -- year 2014
 * Building networks and servers using Beaglebone Black -- May 2015
 * Hacking and penetration testing with low power devices -- year 2015
+* Building a home security system with Beaglebone -- year 2013
+* Beaglebone home automation -- year 2013
 
 
 ## Complementary links : 
