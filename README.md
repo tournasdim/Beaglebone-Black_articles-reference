@@ -7,6 +7,7 @@ A collection of hyperlinks pointing to tutorials / articles and other BBB-relate
     - [Bluetooth] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/BLUETOOTH.md)
     - [Pwm & Servo] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/PWM-SERVO.md)
     - [RTC] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/RTC.md)
+    - [FTDI] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/FTDI.md)
     
 - [Contributing](#contributing)
 
