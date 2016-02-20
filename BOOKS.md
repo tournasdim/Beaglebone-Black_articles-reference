@@ -12,6 +12,7 @@ Title and publication date
 * BeagleBone Black Programming by Example Dec 22, 2014
 * 30 BeagleBone Black Projects for the Evil Genius -- Sep 23, 2014
 * Programming the BeagleBone Black: Getting Started with JavaScript and BoneScript -- May 6, 2014
+* Programming the BeagleBone -- January 2016 by Yogesh Chavan 
 * Android Hardware Interfacing with the BeagleBone Black -- Feb 19, 2015
 * The Internet of Things: Do-It-Yourself at Home Projects for Arduino, Raspberry Pi and BeagleBone Black -- Jan 27, 2015
 * Getting Started with BeagleBone: Linux-Powered Electronic Projects With Python and JavaScript -- Oct 18, 2013
@@ -30,6 +31,7 @@ Title and publication date
 * Hacking and penetration testing with low power devices -- year 2015
 * Building a home security system with Beaglebone -- year 2013
 * Beaglebone home automation -- year 2013
+
 
 
 ## Complementary links : 
