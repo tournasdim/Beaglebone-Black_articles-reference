@@ -2,7 +2,7 @@
 
 ## Notes : 
 Title and publication date 
-## Hyperlinks : 
+## Books : 
 * Exploring BeagleBone: Tools and Techniques for Building with Embedded Linux -- Dec 31, 2014
 * BeagleBone Black Interfacing: hardware and software -- Nov 22, 2014
 * BeagleBone Black Cookbook -- Nov 18, 2015 (by Charles A. Hamilton)
