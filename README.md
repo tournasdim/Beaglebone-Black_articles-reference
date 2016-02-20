@@ -1,5 +1,5 @@
 # Beaglebone-Black_articles-reference
-A collection of hyperlinks pointing to tutorials / articles and other BBB-related things . Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+A collection of hyperlinks pointing to tutorials / articles and other BBB-related things . Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python).
 - [Beaglebone-Black_articles-reference](#Beaglebone-Black_articles-reference)
     - [Reference & manuals] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/REFERENCE-MANUALS.md)
     - [Books] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/BOOKS.md)
