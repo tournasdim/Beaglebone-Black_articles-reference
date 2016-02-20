@@ -5,6 +5,7 @@ A collection of hyperlinks pointing to tutorials / articles and other BBB-relate
     - [Books] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/BOOKS.md)
     - [UART] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/UART.md)
     - [Bluetooth] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/BLUETOOTH.md)
+    - [Pwm & Servo] (https://github.com/tournasdim/Beaglebone-Black_articles-reference/blob/master/PWM-SERVO.md)
     
 - [Contributing](#contributing)
 
